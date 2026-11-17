@@ -138,8 +138,8 @@ KSU_PACKAGE_NAME ?= vn.luisepog.lsjb
 else
 KSU_PACKAGE_NAME ?= vn.luisepog.lsjb.pr
 endif
-KSU_EXPECTED_SIZE ?= 0x30c
-KSU_EXPECTED_HASH ?= 14296df529682e1ada0a4a37f2cab5751f0951706051435394d597168f45dd8b
+KSU_EXPECTED_SIZE ?= 0x313
+KSU_EXPECTED_HASH ?= ee991d86e26357ec985f42cb2cb903c594dfc5ba7d94fa854ace805046957f79
 
 $(info -- KernelSU Manager package name: $(KSU_PACKAGE_NAME))
 $(info -- KernelSU Manager signature size: $(KSU_EXPECTED_SIZE))
